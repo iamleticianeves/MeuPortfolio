@@ -6,7 +6,17 @@
     z-index: 10;
     background-color: var(--white);
   }
+
+  #icon{
+    width: 25px;
+    cursor: pointer;
+}
   
+  nav ul{
+    flex: 1;
+    text-align: right;
+  }
+
   .navbar .navbar__content {
     padding: 3rem 4rem 1rem;
     display: flex;
@@ -15,6 +25,7 @@
   
   .navbar .navbar__content .navbar__links li {
     display: inline-block;
+
   }
   
   .navbar .navbar__content .navbar__links li:not(:last-of-type) {
