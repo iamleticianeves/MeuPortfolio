@@ -73,7 +73,7 @@ p:not(:last-of-type),
 }
 
 .btn.btn-primary:hover {
-  box-shadow: 0 0 10px 5px #a6b1e1; /* Efeito de glow lilás nas bordas */
+  box-shadow: 0 0 10px 5px #a6b1e1;
 }
 
 .max-width {
